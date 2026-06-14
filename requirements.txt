@@ -1,8 +1,5 @@
-fastapi
-uvicorn
-sentence-transformers
-transformers
-torch 
-faiss-cpu
-python-multipart
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
 pypdf
+pydantic==2.7.0
